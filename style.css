@@ -1,0 +1,5 @@
+.cheked {
+  transition: all 0.5s;
+  transform: scale(0.99);
+  opacity: 0.5;
+}
